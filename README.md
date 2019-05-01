@@ -11,8 +11,6 @@ An example run command to get you going is provided below.
 It also bundles an installation of Tinyproxy to also be able to proxy web traffic over your VPN,
 as well as scripts for opening a port for Transmission if you are using PIA or Perfect Privacy providers.
 
-GL HF! And if you run into problems, please check the README twice and try the gitter chat before opening an issue :)
-
 ## Run container from Docker registry
 The container is available from the Docker registry and this is the simplest way to get it.
 To run the container use this command:
